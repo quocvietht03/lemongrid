@@ -1,0 +1,2 @@
+[04-Apr-2019 21:36:07 UTC] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/bearsth1/public_html/theme/beoreo/wp-content/plugins/lemongrid/lemongrid.php on line 14
+[04-Apr-2019 21:36:12 UTC] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/bearsth1/public_html/theme/beoreo/wp-content/plugins/lemongrid/lemongrid.php on line 14

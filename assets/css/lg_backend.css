@@ -1,0 +1,29 @@
+.field-loading{
+	background: rgba(0, 0, 0, 0) url("../images/loader-2.gif") no-repeat scroll 96% center / 18px auto;
+}
+.lg-hidden{
+	display: none;
+}
+.lg-params-container .lg-params-container-inner{
+	padding: 20px;
+	background: #F5F5F5;
+	margin-top: 12px;
+	position: relative;
+}
+.lg-params-container .lg-params-container-inner:before{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 20px;
+	transform: translateY(-100%);
+	-webkit-transform: translateY(-100%);
+	border: solid 8px transparent;
+	border-bottom-color: #F5F5F5;
+}
+.lg-group-field-param{
+	width: 100%;
+	margin-bottom: 10px;
+}
+.lg-group-field-param > label{
+	
+}
